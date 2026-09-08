@@ -37,7 +37,7 @@ button { font: inherit; }
 }
 
 .backdrop {
-  background: url("assets/background.png") center / cover no-repeat;
+  background: url("background.png") center / cover no-repeat;
   filter: blur(9px) saturate(.82);
   transform: scale(1.08);
 }
